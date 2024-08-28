@@ -1,5 +1,5 @@
 ## Swipe to Screen Change   
-added,modified files
+added,modified files  
 app\src\main\java\com\solarisintel\swipechange  
 Fragment1.java  
 Fragment1.java  
